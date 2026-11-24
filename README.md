@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Arla Marangozi
 
-<!--
-**arlamarangozi-h/arlamarangozi-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Public Relations | Marketing | Brand Communication
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+Welcome to my professional portfolio!
+
+My professional focus is Public Relations, Marketing,
+and Brand Communication, with an interest in creative
+storytelling, strategic communication, and meaningful
+connections between brands and their audiences.
+
+This portfolio is a space to showcase my work,
+creative ideas, marketing projects, and professional
+development.
+
+## Areas of Focus
+
+- Public Relations
+- Marketing Strategy
+- Brand Communication
+- Social Media Marketing
+- Content Creation
+- Campaign Planning
+- Market Research
+- Digital Communication
+
+## Portfolio
+
+Upcoming projects and case studies:
+
+- Public Relations Campaigns
+- Social Media Strategies
+- Brand Communication
+- Marketing Campaigns
+- Content Planning
+- Market Research & Analysis
+
+## Professional Interests
+
+Creativity | Communication | Branding | Strategy
+
+## Let's Connect
+
+Open to professional opportunities, collaborations,
+and meaningful marketing projects.
+
+---
+
+Thank you for visiting my portfolio!
